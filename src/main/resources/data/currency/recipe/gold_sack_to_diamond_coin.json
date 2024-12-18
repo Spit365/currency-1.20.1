@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"},
+    {"item": "currency:gold_sack"}
+  ],
+  "result": {
+    "id": "currency:diamond_coin",
+    "count": 1
+  }
+}

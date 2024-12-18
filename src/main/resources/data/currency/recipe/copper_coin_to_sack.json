@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"},
+    {"item": "currency:copper_coin"}
+  ],
+  "result": {
+    "id": "currency:copper_sack",
+    "count": 1
+  }
+}

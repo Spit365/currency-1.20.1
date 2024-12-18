@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "id": "currency:diamond_coin"
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "currency:gold_coin"
+    }
+  ],
+  "result": {
+    "id": "currency:copper_coin",
+    "count": 64
+  }
+}
