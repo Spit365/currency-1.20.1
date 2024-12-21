@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "currency:diamond_coin"
+    }
+  ],
+  "result": {
+    "item": "currency:gold_sack",
+    "count": 8
+  }
+}

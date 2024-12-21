@@ -4,7 +4,7 @@
     "item": "minecraft:diamond"
   },
   "result": {
-    "id": "currency:diamond_coin"
+    "item": "currency:diamond_coin"
   },
   "experience": 0,
   "cookingtime": 200

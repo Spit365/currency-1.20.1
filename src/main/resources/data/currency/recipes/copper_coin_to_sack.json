@@ -11,7 +11,7 @@
     {"item": "currency:copper_coin"}
   ],
   "result": {
-    "id": "currency:copper_sack",
+    "item": "currency:copper_sack",
     "count": 1
   }
 }

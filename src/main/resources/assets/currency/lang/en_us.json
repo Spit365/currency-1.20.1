@@ -1,7 +1,7 @@
 {
-  "item.bullettime.copper_coin":"Copper Coin",
-  "item.bullettime.copper_sack":"Copper Sack",
-  "item.bullettime.gold_coin":"Gold Coin",
-  "item.bullettime.gold_sack":"Gold Sack",
-  "item.bullettime.diamond_coin":"Diamond Coin"
+  "item.currency.copper_coin":"Copper Coin",
+  "item.currency.copper_sack":"Copper Sack",
+  "item.currency.gold_coin":"Gold Coin",
+  "item.currency.gold_sack":"Gold Sack",
+  "item.currency.diamond_coin":"Diamond Coin"
 }

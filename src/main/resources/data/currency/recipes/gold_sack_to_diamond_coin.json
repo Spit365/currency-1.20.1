@@ -11,7 +11,7 @@
     {"item": "currency:gold_sack"}
   ],
   "result": {
-    "id": "currency:diamond_coin",
+    "item": "currency:diamond_coin",
     "count": 1
   }
 }

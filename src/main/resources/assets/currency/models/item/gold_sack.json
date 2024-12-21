@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bullettime:item/gold_sack"
+    "layer0": "currency:item/gold_sack"
   }
 }

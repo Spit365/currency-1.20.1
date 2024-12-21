@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "currency:diamond_coin"
+      "item": "currency:copper_sack"
     }
   ],
   "result": {
-    "id": "currency:gold_coin",
-    "count": 64
+    "item": "currency:copper_coin",
+    "count": 8
   }
 }

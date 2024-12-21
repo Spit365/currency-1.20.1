@@ -2,6 +2,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bullettime:item/copper_coin"
+    "layer0": "currency:item/copper_coin"
   }
 }

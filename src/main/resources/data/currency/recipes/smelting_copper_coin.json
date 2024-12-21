@@ -4,7 +4,7 @@
     "item": "minecraft:copper_ingot"
   },
   "result": {
-    "id": "currency:copper_coin"
+    "item": "currency:copper_coin"
   },
   "experience": 0,
   "cookingtime": 200
