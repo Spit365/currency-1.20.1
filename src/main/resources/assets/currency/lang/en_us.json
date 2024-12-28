@@ -3,5 +3,6 @@
   "item.currency.copper_sack":"Copper Sack",
   "item.currency.gold_coin":"Gold Coin",
   "item.currency.gold_sack":"Gold Sack",
-  "item.currency.diamond_coin":"Diamond Coin"
+  "item.currency.diamond_coin":"Diamond Coin",
+  "itemgroup.currency_tab": "Currency"
 }

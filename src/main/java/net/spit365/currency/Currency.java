@@ -2,6 +2,7 @@ package net.spit365.currency;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.spit365.currency.item.ModItemGroups;
 import net.spit365.currency.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -17,6 +18,7 @@ public class Currency implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModItemGroups.registerModItemGroups();
 
 		LOGGER.info("Hello Fabric world!");
 	}
