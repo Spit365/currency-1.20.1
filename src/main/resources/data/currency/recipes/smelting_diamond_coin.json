@@ -3,9 +3,7 @@
   "ingredient": {
     "item": "minecraft:diamond"
   },
-  "result": {
-    "item": "currency:diamond_coin"
-  },
+  "result": "currency:diamond_coin",
   "experience": 0,
   "cookingtime": 200
 }

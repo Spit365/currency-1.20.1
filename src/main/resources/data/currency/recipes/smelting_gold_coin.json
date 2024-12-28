@@ -3,9 +3,7 @@
   "ingredient": {
     "item": "minecraft:gold_ingot"
   },
-  "result": {
-    "item": "currency:gold_coin"
-  },
+  "result": "currency:gold_coin",
   "experience": 0,
   "cookingtime": 200
 }

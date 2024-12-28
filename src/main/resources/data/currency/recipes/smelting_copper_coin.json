@@ -3,9 +3,7 @@
   "ingredient": {
     "item": "minecraft:copper_ingot"
   },
-  "result": {
-    "item": "currency:copper_coin"
-  },
+  "result": "currency:copper_coin",
   "experience": 0,
   "cookingtime": 200
 }
